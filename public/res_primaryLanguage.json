@@ -13,7 +13,7 @@
       {
         "title": "Animal Shelter",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processes and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -39,10 +39,10 @@
         "startDate": "2022",
         "description": "Personal project for study subject. Codefellows, REACT and JavaScript.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/projects/horns.png",
+          "images/portfolio/projects/hundred.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/nKingchaos2284/gallery-of-horns",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,14 +55,16 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "King of Chaos Coffee Co",
+        "startDate": "2020",
+        "description": "The first website I built for my professional career. It's the website for my coffee company. It's what got me really interested in learning coding professionally I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/chaos/king3.png",
+          "images/portfolio/chaos/king1.png",
+          "images/portfolio/chaos/king2.png"
+
         ],
-        "url": "https://github.com",
+        "url": "https://kingofchaoscoffeeco.com/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",

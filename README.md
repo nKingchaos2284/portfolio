@@ -1,3 +1,3 @@
 # Modify this portfolio
 
-Make it your own! 
+I did. Totally made it mine

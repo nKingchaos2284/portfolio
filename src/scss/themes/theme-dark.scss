@@ -3,7 +3,7 @@ body[data-theme="dark"] {
    @import '/src/scss/dark-slider.scss';
 
    .slider-tab {
-      background-color: #8C8C8C;
+      background-color: #e9fc15;
    }
 
    .title-styles {
@@ -24,7 +24,7 @@ body[data-theme="dark"] {
    }
 
    .link-href {
-      color: white;
+      color: rgb(255, 255, 255);
    }
 
    .project-date {
@@ -40,9 +40,9 @@ body[data-theme="dark"] {
    }
 
    #about {
-      background-color: #7f7f7f;
+      background-color: #5d5252;
       h1 span {
-         color: white;
+         color: rgb(158, 32, 32);
       }
       .polaroid span {
          background:  #6d6d6d;
@@ -97,7 +97,7 @@ body[data-theme="dark"] {
    }
 
    .modal-inside .modal-content {
-      background: #5b5b5b;
+      background: #6c6565;
       color: white;
    }
 

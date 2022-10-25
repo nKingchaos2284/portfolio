@@ -136,7 +136,7 @@ $content-background-color: #8C8C8C;
       top: calc(50% - (0.5 * var(--control-button-height)));
       border: none;
       background-color: var(--control-button-background);
-      color: #fff;
+      color: rgb(69, 255, 7);
       cursor: pointer;
       .#{$root-element}__controls__arrow-left,
       .#{$root-element}__controls__arrow-right {

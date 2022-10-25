@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Joey, that's what I got by. My full name is Jose Mauricio Cabrera Elias. Navy and Army twelve year Veteran.I'm currently attending Codefellows, finishing up the Full-Stack Javascript certification program. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -35,9 +35,9 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Beasts with Horns",
+        "startDate": "2022",
+        "description": "Personal project for study subject. Codefellows, REACT and JavaScript.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"

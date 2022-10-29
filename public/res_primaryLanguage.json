@@ -1,120 +1,104 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Joey, that's what I got by. My full name is Jose Mauricio Cabrera Elias. Navy and Army twelve year Veteran.I'm currently attending Codefellows, finishing up the Full-Stack Javascript certification program. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Joey, that's what I got by. My full name is Jose Mauricio Cabrera Elias. Navy and Army twelve year Veteran.I'm currently attending Codefellows, finishing up the Full-Stack Javascript certification program. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "301 Final Placeholder",
+      "startDate": "2022",
+      "description": "this is a placeholder for final 301 project",
+      "images": [
+        "images/portfolio/301-final/p1.jpg",
+        "images/portfolio/301-final/p2.jpg"
+      ],
+      "url": "https://github.com/nKingchaos2284/gallery-of-horns",
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processes and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Beasts with Horns",
-        "startDate": "2022",
-        "description": "Personal project for study subject. Codefellows, REACT and JavaScript.",
-        "images": [
-          "images/portfolio/projects/horns.png",
-          "images/portfolio/projects/hundred.png"
-        ],
-        "url": "https://github.com/nKingchaos2284/gallery-of-horns",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "King of Chaos Coffee Co",
-        "startDate": "2020",
-        "description": "The first website I built for my professional career. It's the website for my coffee company. It's what got me really interested in learning coding professionally I've learned a lot!",
-        "images": [
-          "images/portfolio/chaos/king3.png",
-          "images/portfolio/chaos/king1.png",
-          "images/portfolio/chaos/king2.png"
-
-        ],
-        "url": "https://kingofchaoscoffeeco.com/",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Beasts with Horns",
+      "startDate": "2022",
+      "description": "Personal project for study subject. Codefellows, REACT and JavaScript.",
+      "images": [
+        "images/portfolio/projects/horns.png",
+        "images/portfolio/projects/hundred.png"
+      ],
+      "url": "https://github.com/nKingchaos2284/gallery-of-horns",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "King of Chaos Coffee Co",
+      "startDate": "2020",
+      "description": "The first website I built for my professional career. It's the website for my coffee company. It's what got me really interested in learning coding professionally I've learned a lot!",
+      "images": [
+        "images/portfolio/chaos/king3.png",
+        "images/portfolio/chaos/king1.png",
+        "images/portfolio/chaos/king2.png"
+      ],
+      "url": "https://kingofchaoscoffeeco.com/",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "PremierTech",
+      "title": "Field Service ngineer",
+      "years": "2019 - 2019",
+      "mainTech": [
+        "multiple platforms"
+      ],
+      "technologies": [
+        "REST API"
+      ]
+    },
+    {
+      "company": "j. cabeli LLC ",
+      "title": " CEO ",
+      "years": "01.2020 - present",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "RxJS",
+        "Django Unchained"
+      ]
+    }
+  ]
+}

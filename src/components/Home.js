@@ -6,6 +6,8 @@ import Experience from "./Experience";
 class Home extends Component {
   render() {
     return (
+      
+  
       <div>
         <Projects
           resumeProjects={this.props.resumeData.projects}
@@ -18,7 +20,7 @@ class Home extends Component {
         <Experience
           resumeExperience={this.props.resumeData.experience}
           resumeBasicInfo={this.props.resumeData.basic_info}
-        />
+        />  
       </div>
     );
   }

@@ -7,6 +7,8 @@ import Footer from "./components/Footer";
 import About from "./components/About";
 import Home from "./components/Home";
 
+
+
 class App extends Component {
 
   constructor(props) {
@@ -16,6 +18,7 @@ class App extends Component {
       resumeData: {},
       sharedData: {},
     };
+    
   }
 
   applyPickedLanguage = (pickedLanguage, oppositeLangIconId) => {
@@ -45,7 +48,7 @@ class App extends Component {
     this.loadSharedData();
     this.applyPickedLanguage(
       window.$primaryLanguage,
-    //   window.$secondaryLanguageIconId
+      //   window.$secondaryLanguageIconId
     );
   }
 
@@ -77,30 +80,32 @@ class App extends Component {
     });
   }
 
+
   render() {
     return (
       <Router>
         <Header sharedData={this.state.sharedData.basic_info} />
         <Routes>
-          <Route 
-            exact path="/" 
+          <Route
+            exact path="/"
             element={<Home
               resumeData={this.state.resumeData}
               sharedData={this.state.sharedData}
             />}>
           </Route>
-          <Route 
-            path="/about" 
+          <Route
+            path="/about"
             element={<About
               resumeBasicInfo={this.state.resumeData.basic_info}
               sharedBasicInfo={this.state.sharedData.basic_info}
             />}>
           </Route>
         </Routes>
-        <Footer 
+        <Footer
           sharedBasicInfo={this.state.sharedData.basic_info}
-          applyPickedLanguage={this.applyPickedLanguage} 
-        />  
+          applyPickedLanguage={this.applyPickedLanguage}
+        />
+       
       </Router>
     );
   }

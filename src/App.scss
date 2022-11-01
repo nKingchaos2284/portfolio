@@ -239,7 +239,10 @@ header h1 {
 }
 
 #resume {
-	background: #be901b;
+	background-image: url(./img/326.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 5%;
 }
 
 .experience-icon {
@@ -361,7 +364,9 @@ header h1 {
 }
 
 #portfolio {
-	background: #c9ce37;
+	background-image: url(./img/321.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 	padding-bottom: 5%;
 }
 
@@ -402,7 +407,13 @@ header h1 {
 	width: 100%;
 	overflow: hidden;
 	padding-bottom: 10%;
+
+	background-image: url(./img/322.webp);
+	background-repeat: no-repeat;
+	background-size: cover;
+	
 }
+
 
 .section-title {
 	padding-top: 5%;
@@ -445,4 +456,21 @@ footer a:focus {
 .social-links {
 	margin-top: 10px;
 	font-size: 22px;
+}
+
+
+
+#home {
+	background-image: url(./img/324.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 5%;
+	
+}
+
+#resume {
+	background-image: url(./img/326.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 5%;
 }

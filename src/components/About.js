@@ -4,6 +4,7 @@ import angularIcon from "@iconify/icons-logos/angular-icon";
 import reactIcon from "@iconify/icons-logos/react";
 import vueIcon from "@iconify/icons-logos/vue";
 
+
 class About extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
@@ -17,6 +18,9 @@ class About extends Component {
 
     return (
       <section id="about">
+
+
+
         <div className="col-md-12">
           <h1 style={{ color: "black" }}>
             <span>{sectionName}</span>

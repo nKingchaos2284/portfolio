@@ -10818,7 +10818,7 @@ a.text-warning:hover, a.text-warning:focus {
 }
 
 .text-danger {
-  color: #F85C70 !important;
+  color: #b0d83a !important;
 }
 
 a.text-danger:hover, a.text-danger:focus {
@@ -11007,7 +11007,7 @@ p {
   display: block;
   width: 25px;
   height: 1.5px;
-  background-color: #F85C70;
+  background-color: #b0d83a;
 }
 
 .breadcrumb {

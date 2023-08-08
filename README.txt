@@ -1,6 +1,5 @@
 J.Cabeli LLC
-    Icons:
-		Themify Icons: 		(https://themify.me/themify-icons)
+
 
 	Other:
 		JQuery: 			(https://www.jquery.com)

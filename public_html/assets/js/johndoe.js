@@ -1,6 +1,6 @@
 /*!
 =========================================================
-* JohnDoe Landing page
+Joey C Landing page
 =========================================================
 
 
@@ -8,6 +8,8 @@
 =========================================================
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+yeah, I used a template, got a problem with that? I'm not about to write all this code from scratch when I don't have to
 */
 
 // smooth scroll

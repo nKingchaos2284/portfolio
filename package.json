@@ -1,6 +1,6 @@
 {
   "name": "j.cabeli",
-  "version": "2.0.1",
+  "version": "2.1.1",
   "description": "An elegant responsive bootstrap 4.x theme.",
   "main": "gulpfile.js",
   "author": "DevCRUD",
@@ -40,5 +40,13 @@
     "optipng-bin": "^5.1.0",
     "pngquant-bin": "^5.0.2"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "portfolio"
+  },
+  "keywords": [
+    "your",
+    "mother"
+  ]
 }

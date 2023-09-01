@@ -9,7 +9,7 @@ Joey C Landing page
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-yeah, I used a template, got a problem with that? I'm not about to write all this code from scratch when I don't have to
+yeah, I used a template, got a problem with that? I'm not about to write all this code from scratch when I don't have to. I just know how to read and modify things because I know the  logic behind it.
 */
 
 // smooth scroll
@@ -37,7 +37,7 @@ $(window).on("load", function() {
     t.isotope({
         filter: ".new",
         animationOptions: {
-            duration: 750,
+            duration: 753,
             easing: "linear",
             queue: !1
         }

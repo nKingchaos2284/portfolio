@@ -31,7 +31,7 @@ $(document).ready(function(){
     });
 });
 
-// protfolio filters
+// portfolio filters
 $(window).on("load", function() {
     var t = $(".portfolio-container");
     t.isotope({

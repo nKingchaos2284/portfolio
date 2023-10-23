@@ -1,5 +1,5 @@
 J.Cabeli LLC
-
+This is my code, copied and butchered from a sources
 
 	Other:
 		JQuery: 			(https://www.jquery.com)
